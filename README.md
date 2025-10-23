@@ -1,5 +1,3 @@
-![alt text](./.github/assets/chatwoot.png)
-
 # Chatwoot Vue 3 && Nuxt 3
 <p>
       <a href="https://www.npmjs.com/package/@productdevbook/chatwoot"><img src="https://img.shields.io/npm/v/@productdevbook/chatwoot.svg?style=flat&colorA=002438&colorB=28CF8D" alt="Version"></a>
